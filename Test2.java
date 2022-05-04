@@ -8,4 +8,6 @@ public class Test2 {
     public void merge2(){}
     public void merge3(){}
     public void merge4(){}
+    public void merge5(){}
+    public void merge6(){}
 }
