@@ -5,6 +5,6 @@ public class Test {
 
     public void merge148(){}
     public void abcd(){}
-    public void abcd2(){}
+    public void abcd2(){}//ok
     public void abcd4(){}
 }
