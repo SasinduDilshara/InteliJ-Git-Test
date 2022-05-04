@@ -11,4 +11,6 @@ public class Test2 {
 
     public void merge7(){}
     public void merge8(){}
+    public void merge5(){}
+    public void merge6(){}
 }
