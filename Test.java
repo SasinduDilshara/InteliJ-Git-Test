@@ -3,8 +3,8 @@ public class Test {
         System.out.println("hi");
     }
 
-    public void merge5(){}
+    public void merge1(){}
     public void abcd(){}
     public void abcd2(){}
-    public void abcd3(){}
+    public void abcd4(){}
 }
