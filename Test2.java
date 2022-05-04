@@ -3,4 +3,6 @@ public class Test2 {
         return 11;
     }
     public void merge(){}
+
+    public void merge1(){}
 }
