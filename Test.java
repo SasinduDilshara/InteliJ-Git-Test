@@ -3,6 +3,7 @@ public class Test {
         System.out.println("hi");
     }
 
-    public void merge(){}
+    public void merge2(){}
     public void abcd(){}
+    public void abcd2(){}
 }
