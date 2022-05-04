@@ -5,4 +5,5 @@ public class Test2 {
     public void merge(){}
 
     public void merge1(){}
+    public void merge2(){}
 }
